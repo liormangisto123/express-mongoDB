@@ -1,0 +1,11 @@
+POST http://localhost:3000/AddNewBusiness
+Content-Type: application/json
+
+{
+    "_id":36674337,
+    "firstName":"haim",
+    "lastName":"haim",
+    "age":26
+}
+
+g
